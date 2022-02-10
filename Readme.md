@@ -1,0 +1,1 @@
+Projeto que consome o valor do Dólar Americano (USD) da API do BC do Brasil desde 2007 até hoje.
