@@ -11,4 +11,4 @@ API: https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaP
 	<img src="https://github.com/JCazarotto/exchange-rate-USD-BRL/blob/master/dashboard_pbi.png" alt="Dashboard PowerBI"/>
 </div> 
 
-<iframe title="HISTÓRICO COTAÇÃO USD E EUR PARA BRL" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTI4NGVmMmQtOWJkZS00MTRmLWE3YTktODYyYWQzYjhmNjA0IiwidCI6ImRjZDI0NDU1LWVkMzQtNDJhZi1hZmJmLTczMzg1ODExMTU5OCJ9" frameborder="0" allowFullScreen="true"></iframe>
+Link: https://app.powerbi.com/view?r=eyJrIjoiOTI4NGVmMmQtOWJkZS00MTRmLWE3YTktODYyYWQzYjhmNjA0IiwidCI6ImRjZDI0NDU1LWVkMzQtNDJhZi1hZmJmLTczMzg1ODExMTU5OCJ9
