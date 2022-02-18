@@ -5,7 +5,7 @@ API: https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaP
 * Para requisitar uma cotação, basta alterar as variáveis *dataInicialCotacao* e *dataFinalCotacao* da url, utilizando o formato mm-dd-aaaa. Obs.: No link acima, está sendo requisitada a cotação de 10 de fevereiro de 2022.
 
 * Também é possível requisitar cotações de outras moedas, para isso, basta  alterar a variável
-*codigoMoeda* da url, utilizando um codigo de moeda válido (Ex.: EUR para Euro ou GBP para Libra Esterlina).
+*codigoMoeda* da url, utilizando um codigo de moeda válido (Ex.: EUR para Euro).
 
 <div align="center">
 	<img src="https://github.com/JCazarotto/exchange-rate-USD-BRL/blob/master/dashboard_pbi.png" alt="Dashboard PowerBI"/>
