@@ -10,6 +10,7 @@ do BC do Brasil buscando o valor do Dólar Americano (USD) desde 2007 até hoje.
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOTI4NGVmMmQtOWJkZS00MTRmLWE3YTktODYyYWQzYjhmNjA0IiwidCI6ImRjZDI0NDU1LWVkMzQtNDJhZi1hZmJmLTczMzg1ODExMTU5OCJ9">Dashboard</a>
 <br>
+<br>
 
 <div align="center">
 	<img src="https://github.com/JCazarotto/exchange-rate-USD-BRL/blob/master/dashboard_pbi.png" alt="Dashboard PowerBI"/>
